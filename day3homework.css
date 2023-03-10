@@ -1,0 +1,126 @@
+/* 
+Header Start
+*/
+header{background-color: black;
+    width: 100%;
+}
+
+.container1{
+}
+
+.title{
+    color: white;
+    padding-top: 15px;
+    padding-left: 25px;
+    font-size: larger;
+}
+
+.navbar{
+    display: flex;
+    padding-left: 200px;
+    width: 1150px;
+    margin-bottom: 25px;
+    border-bottom: 0px;
+    gap: 25px;
+    list-style-type: none;
+    color: white;
+    font-family: 'roboto' sans-serif;
+}
+
+/* 
+Body Start
+*/
+<style>
+.container2 {
+  position: relative;
+  text-align: center;
+  color: white;
+  list-style-type: none;
+}
+
+.maintext {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 75px;
+  font-weight: 1;
+}
+
+/* 
+Footer Start
+*/
+
+</style>
+
+.Date2020{
+    list-style-type: none;
+}
+
+.photocontainer1{
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+<style>
+.piccontainer1{
+    display: grid;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 30px;    
+}
+</style>
+
+.yellowbutton{
+    display: flex;
+    padding: 13px 25px;
+    font-size: 20px;
+    line-height: 20px;
+    border-radius: 7px;
+    color: yellow;
+    border: 1px solid black;
+    align-items: flex-end;
+}
+
+/* 
+Footer Begins
+ */
+
+footer{
+    background-color: black;
+}
+
+.footerinfo{
+    display: flex;
+    position: relative;
+    list-style-type: none;
+    flex-direction: row;
+    margin-left: 30px;
+    border-radius: 20px;
+    padding-top: 30px;
+    gap: 30px;
+}
+
+.footermap{
+    padding-right: 30px;
+    position: relative;
+    color: white;
+}
+
+.footercolumns2{
+    
+    padding left: 30px;
+    padding-right: 30px;
+    align-items: baseline;
+    position: relative;
+    color: white;
+    
+}
+
+.footersubtitle{
+    font-size: x-large;
+    padding-left: 30px;
+}

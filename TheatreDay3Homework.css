@@ -1,0 +1,55 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+.flexall{
+    background-color: rgb(3, 2, 4);
+    width: 100%;
+    height: 80px;
+}
+
+.header{
+    grid-row: auto;
+    list-style-type: none;
+    color: white;
+}
+
+.homeguide{
+    display:grid
+    height: 50px;
+    color: white;
+}
+
+.Griot{
+    position: absolute;
+    position: left;
+    padding: left 5px;
+    font-family: 'Poppins', sans-serif;
+}
+.flexbox-item1{
+    display: flex;
+    list-style-type: none;
+}
+
+.flexbox-item1{
+    margin-top: 140px;
+    align-items: flex-start;
+    width: 400px;
+    height: auto;
+}
+
+.flexbox2{
+    width: max-content;
+    height: 900;
+    background-color: white;
+}
+.Availabledates{
+display: grid;
+
+}
+
+
+.footer{
+    display: grid;
+    columns: auto;
+}
